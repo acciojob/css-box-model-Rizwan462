@@ -2,7 +2,12 @@
 /* Your CSS Code here. */
 body{
 	margin: 0px;
-	padding: 0px;
+	display: flex;
+	justify-content: center;
+	align-item: center;
+	font-family: arial, sans-serif;
+	background-color: #f4f4f4;
+	
 	
 }
 #box{
